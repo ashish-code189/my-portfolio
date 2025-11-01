@@ -25,7 +25,7 @@ export default function Hero() {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.6 }}
       >
-        A passionate Web Developer who loves creating responsive and dynamic
+        A passionate Frontend Developer who loves creating responsive and dynamic
         websites ✨
       </motion.p>
       <motion.button
