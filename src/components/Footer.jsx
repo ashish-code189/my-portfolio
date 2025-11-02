@@ -12,14 +12,14 @@ export default function Footer() {
         transition={{ duration: 0.8 }}
       >
         <a
-          href="https://github.com/ashishkushwaha"
+          href="https://github.com/ashish-code189"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FaGithub />
         </a>
         <a
-          href="https://linkedin.com/in/ashish-kushwaha"
+          href="https://www.linkedin.com/in/ashish-kushwaha-3a1726235"
           target="_blank"
           rel="noopener noreferrer"
         >
